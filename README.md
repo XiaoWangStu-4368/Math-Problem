@@ -2,11 +2,10 @@
 A product produced by a certain factory is assembled from two parts, A and B, with assembly time ignored. The factory has four assembly lines producing these two parts, and the daily production quantity is as follows (unit: pieces):
 
 
-\      Day1      Day2      Day3      Day4
-      
-A      80        90        70        60
-
-B      100       120       110       70
+| \ | Machine1 | Machine2 | Machine3 | Machine4 |
+| :----: | :----: | :----: | :----: | :----: |
+| A | 80 | 90 | 70 | 60 |
+| B | 100 | 120 | 110 | 70 |
 
 
 程序需要提前设定,所以每条流水线一天只能生产同一种零件,第二天可以更换。
