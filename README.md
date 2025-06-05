@@ -1,3 +1,4 @@
+问题一/Problem 1:
 某工厂生产的一种产品由A,B两种零件各一个组装而成(组装时间忽略不计),该工厂 有4条流水线生产这两种零件,一天的生产数量如下(单位:个): 
 A product produced by a certain factory is assembled from two parts, A and B, with assembly time ignored. The factory has four assembly lines producing these two parts, and the daily production quantity is as follows (unit: pieces):
 
